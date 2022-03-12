@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">c1811291_assignment1</string>
+    <string name="register">Register</string>
+    <string name="login_name_hint">Name / Surname</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_mobile_number_hint">Mobile Phone Number</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="signup_login_hint">Sign In</string>
+    <string name="login_signup_hint">Sign Up</string>
+</resources>
