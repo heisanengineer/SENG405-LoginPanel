@@ -1,2 +1,2 @@
 # SENG405 LoginPanel
- Assignment 1
+ Assignment 2
