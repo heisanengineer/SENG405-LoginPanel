@@ -3,10 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.c1811291_assignment1.loginpanel.LoginActivity"
     android:background="@drawable/login_bk"
-    android:focusableInTouchMode="true">
+    android:focusableInTouchMode="true"
+    tools:context="com.c1811291_assignment1.loginpanel.LoginActivity">
 
-    <include layout="@layout/layout_login"/>
+    <include
+        android:id="@+id/include"
+        layout="@layout/layout_login" />
 
 </android.support.constraint.ConstraintLayout>

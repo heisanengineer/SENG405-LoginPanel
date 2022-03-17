@@ -42,7 +42,8 @@
             style="@style/modifiedEditText"
             android:hint="@string/login_password_hint"
             android:inputType="textPassword"
-            android:maxLines="1" />
+            android:maxLines="1"
+            android:onClick="passCheck" />
     </android.support.design.widget.TextInputLayout>
 
     <Button
@@ -51,6 +52,14 @@
         android:text="Login"
         android:layout_gravity="right"
         android:layout_marginTop="@dimen/loginViewsMargin"/>
+
+    <TextView
+        android:id="@+id/errorText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="errorText"
+        android:textColor="#F44336"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/activity_signup"
