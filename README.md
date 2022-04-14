@@ -10,4 +10,6 @@ Please prepare an Activity with layout for user login. Login screen should inclu
 
 Please send your source code repository for Git or Github.
 
-<img width="404" alt="Ekran Resmi 2022-04-14 14 39 18" src="https://user-images.githubusercontent.com/93338158/163385068-3613c0fa-7a48-4a76-b618-a49bccc2d21a.png"><img width="404" alt="Ekran Resmi 2022-04-14 14 49 38" src="https://user-images.githubusercontent.com/93338158/163385100-b9b0ce23-6364-4917-a16e-4157117ec7fe.png">
+
+<img width="404" alt="Ekran Resmi 2022-04-14 14 30 55" src="https://user-images.githubusercontent.com/93338158/163385653-fb9d127a-ac1d-4489-804b-213244711696.png"><img width="404" alt="Ekran Resmi 2022-04-14 14 31 09" src="https://user-images.githubusercontent.com/93338158/163385674-2c6fe9b9-0f3c-4bbd-85cc-7b2e70bddfdb.png">
+
